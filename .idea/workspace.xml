@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="824ccbae-dbc2-400f-99ab-d53f77dc856d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.3174727">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="LoadCSV.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/DataSource/LoadCSV.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+                  <folding>
+                    <element signature="e#36#68#0#PHP" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="data.csv" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/data.csv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret selection-end-line="2" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="LoadCSVTest.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tests/Unit/DataSource/LoadCSVTest.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="124">
+                  <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Assert.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bin/.phpunit/phpunit-6.5/src/Framework/Assert.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="208">
+                  <caret line="1503" column="62" selection-start-line="1503" selection-start-column="55" selection-end-line="1503" selection-end-column="62" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MerchantTransactionCommand.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Command/MerchantTransactionCommand.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="369">
+                  <caret line="64" column="75" selection-start-line="64" selection-start-column="75" selection-end-line="64" selection-end-column="75" />
+                  <folding>
+                    <element signature="e#32#82#0#PHP" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="framework.yaml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/config/packages/test/framework.yaml">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="services.yaml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/config/services.yaml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CurrencyConverter.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Transaction/CurrencyConverter.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="345">
+                  <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="MerchantTransactionCommand.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Command/MerchantTransactionCommand.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="480">
+                  <caret line="40" column="48" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Command.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Command/Command.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="209">
+                  <caret line="366" column="20" selection-start-line="366" selection-start-column="20" selection-end-line="366" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TransactionRepositoryInterface.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Repository/TransactionRepositoryInterface.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TransactionCSVRepositoryTest.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tests/Unit/Repository/TransactionCSVRepositoryTest.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="442">
+                  <caret line="38" selection-start-line="38" selection-end-line="38" />
+                  <folding>
+                    <element signature="e#45#72#0#PHP" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CurrencyConverterTest.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tests/Unit/Transaction/CurrencyConverterTest.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="157">
+                  <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#46#84#0#PHP" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CurrencyConverter.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/models/CurrencyConverter.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test_data.csv" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tests/Unit/DataSource/test_data.csv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MerchantTransactionCommandTest.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tests/Integration/Command/MerchantTransactionCommandTest.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-313">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                  <folding>
+                    <element signature="e#49#104#0#PHP" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="390">
+                    <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/composer.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="645">
+                  <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self::$data</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$this-&gt;data</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/models/TransactionTable.php" />
+        <option value="$PROJECT_DIR$/src/Transaction/Transaction.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/resources/data.csv" />
+        <option value="$PROJECT_DIR$/tests/Test.php" />
+        <option value="$PROJECT_DIR$/src/Transaction/CurrencyWebserviceInterface.php" />
+        <option value="$PROJECT_DIR$/src/Transaction/CurrencyExchangeRateInterface.php" />
+        <option value="$PROJECT_DIR$/src/Transaction/CurrencyWebservice.php" />
+        <option value="$PROJECT_DIR$/src/Transaction/CurrencyExchangeRateMockService.php" />
+        <option value="$PROJECT_DIR$/src/Transaction/CurrencyConverterInterface.php" />
+        <option value="$PROJECT_DIR$/src/Transaction/CurrencyConverter.php" />
+        <option value="$PROJECT_DIR$/src/Repository/TransactionRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/src/Repository/TransactionCSVRepository.php" />
+        <option value="$PROJECT_DIR$/tests/Unit/Repository/TransactionCSVRepositoryTest.php" />
+        <option value="$PROJECT_DIR$/config/services.yaml" />
+        <option value="$PROJECT_DIR$/tests/Unit/Transaction/CurrencyExchangeRateMockServiceTest.php" />
+        <option value="$PROJECT_DIR$/tests/Unit/Transaction/CurrencyConverterTest.php" />
+        <option value="$PROJECT_DIR$/src/Command/MerchantTransactionCommand.php" />
+        <option value="$PROJECT_DIR$/tests/Unit/DataSource/test_data.csv" />
+        <option value="$PROJECT_DIR$/tests/Unit/DataSource/LoadCSVTest.php" />
+        <option value="$PROJECT_DIR$/src/DataSource/LoadCSV.php" />
+        <option value="$PROJECT_DIR$/tests/Integration/Command/MerchantTransactionCommandTest.php" />
+        <option value="$PROJECT_DIR$/resources/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/league/csv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/test-pack" />
+      <path value="$PROJECT_DIR$/vendor/beberlei/assert" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="951" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="packages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="packages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scripts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Command" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DataSource" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Repository" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Transaction" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Integration" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="candidate-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="candidate-task" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit 6+" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../finchmeister1/source" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Unit/Repository" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.tests">
+    <configuration name="LoadCSVTest.testGetData" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Unit\DataSource\LoadCSVTest" file="$PROJECT_DIR$/tests/Unit/DataSource/LoadCSVTest.php" method="testGetData" scope="Method" />
+    </configuration>
+    <configuration name="MerchantTransactionCommandTest.testNoTransactionsForMerchantId" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Integration\Command\MerchantTransactionCommandTest" file="$PROJECT_DIR$/tests/Integration/Command/MerchantTransactionCommandTest.php" method="testNoTransactionsForMerchantId" scope="Method" />
+    </configuration>
+    <configuration name="MerchantTransactionCommandTest.testNonIntegerTransactionType" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Integration\Command\MerchantTransactionCommandTest" file="$PROJECT_DIR$/tests/Integration/Command/MerchantTransactionCommandTest.php" method="testNonIntegerTransactionType" scope="Method" />
+    </configuration>
+    <configuration name="MerchantTransactionCommandTest.testTransactionsForMerchantOutput" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Integration\Command\MerchantTransactionCommandTest" file="$PROJECT_DIR$/tests/Integration/Command/MerchantTransactionCommandTest.php" method="testTransactionsForMerchantOutput" scope="Method" />
+    </configuration>
+    <configuration name="tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/tests" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.MerchantTransactionCommandTest.testNoTransactionsForMerchantId" />
+      <item itemvalue="PHPUnit.MerchantTransactionCommandTest.testNonIntegerTransactionType" />
+      <item itemvalue="PHPUnit.MerchantTransactionCommandTest.testTransactionsForMerchantOutput" />
+      <item itemvalue="PHPUnit.tests" />
+      <item itemvalue="PHPUnit.LoadCSVTest.testGetData" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.tests" />
+        <item itemvalue="PHPUnit.LoadCSVTest.testGetData" />
+        <item itemvalue="PHPUnit.MerchantTransactionCommandTest.testNoTransactionsForMerchantId" />
+        <item itemvalue="PHPUnit.MerchantTransactionCommandTest.testTransactionsForMerchantOutput" />
+        <item itemvalue="PHPUnit.MerchantTransactionCommandTest.testNonIntegerTransactionType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="824ccbae-dbc2-400f-99ab-d53f77dc856d" name="Default" comment="" />
+      <created>1535567945692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535567945692</updated>
+      <workItem from="1535567947610" duration="19514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MerchantTransactionCommandTest_testNonIntegerTransactionType - 2018.08.31 at 09h 12m 40s.xml">
+      <configuration name="MerchantTransactionCommandTest.testNonIntegerTransactionType" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="MerchantTransactionCommandTest_testNonIntegerTransactionType - 2018.08.31 at 09h 13m 15s.xml">
+      <configuration name="MerchantTransactionCommandTest.testNonIntegerTransactionType" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="MerchantTransactionCommandTest_testNonIntegerTransactionType - 2018.08.31 at 09h 14m 10s.xml">
+      <configuration name="MerchantTransactionCommandTest.testNonIntegerTransactionType" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="MerchantTransactionCommandTest_testTransactionsForMerchantOutput - 2018.08.31 at 09h 14m 17s.xml">
+      <configuration name="MerchantTransactionCommandTest.testTransactionsForMerchantOutput" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="MerchantTransactionCommandTest_testTransactionsForMerchantOutput - 2018.08.31 at 09h 15m 22s.xml">
+      <configuration name="MerchantTransactionCommandTest.testTransactionsForMerchantOutput" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="MerchantTransactionCommandTest_testNoTransactionsForMerchantId - 2018.08.31 at 09h 15m 29s.xml">
+      <configuration name="MerchantTransactionCommandTest.testNoTransactionsForMerchantId" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="tests - 2018.08.31 at 09h 15m 34s.xml">
+      <configuration name="tests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="LoadCSVTest_testGetData - 2018.08.31 at 09h 17m 30s.xml">
+      <configuration name="LoadCSVTest.testGetData" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="tests - 2018.08.31 at 09h 17m 36s.xml">
+      <configuration name="tests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="tests - 2018.08.31 at 09h 18m 25s.xml">
+      <configuration name="tests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19514000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="953" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32893157" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50427353" side_tool="true" visible="true" weight="0.21728691" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497558" weight="0.32893157" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4957265" visible="true" weight="0.21728691" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21733822" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32893157" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.39975992" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/Unit/DataSource/LoadCSVTest.php</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>$row['value'][]</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$row['value'][2]</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$row['value'][3]</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$row['value'][4]</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$row['value'][1]</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$row['value'][0]</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>substr($row[&quot;value&quot;],0,1)</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$row[&quot;value&quot;][0]</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/scripts/report.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/framework.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/bundles.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/models/Merchant.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/models/TransactionTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/league/csv/src/Reader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="343" column="20" selection-start-line="343" selection-start-column="20" selection-end-line="343" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/framework-bundle/Tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/league/csv/src/AbstractCsv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/league/csv/src/MapIterator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/.phpunit/phpunit-6.5/src/Framework/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="939" selection-start-line="939" selection-end-line="939" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Helper/Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="84" column="20" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/models/CurrencyWebservice.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Transaction/Transaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="685" column="9" selection-start-line="685" selection-start-column="9" selection-end-line="685" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Transaction/CurrencyConverterInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repository/TransactionCSVRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#36#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Transaction/CurrencyExchangeRateInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Unit/Transaction/CurrencyExchangeRateMockServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Unit/Repository/TransactionCSVRepositoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#45#72#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/models/CurrencyConverter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Transaction/CurrencyExchangeRateMockService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#30#74#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Unit/Transaction/CurrencyConverterTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="e#46#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/.phpunit/phpunit-6.5/src/Framework/Assert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="1503" column="62" selection-start-line="1503" selection-start-column="55" selection-end-line="1503" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/test/framework.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Unit/DataSource/test_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Command/MerchantTransactionCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Command/Command.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="366" column="20" selection-start-line="366" selection-start-column="20" selection-end-line="366" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repository/TransactionRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/services.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Unit/DataSource/LoadCSVTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Integration/Command/MerchantTransactionCommandTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#49#104#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tests/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataSource/LoadCSV.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#36#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Transaction/CurrencyConverter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

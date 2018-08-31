@@ -1,0 +1,14 @@
+parameters:
+    csv_path: '%kernel.project_dir%/resources/data.csv'
+
+services:
+    _defaults:
+        autowire: true      # Automatically injects dependencies in your services.
+        autoconfigure: true # Automatically registers your services as commands, event subscribers, etc.
+        public: false       # Allows optimizing the container by removing unused services; this also means
+    App\:
+        resource: '../src/*'
+        exclude: '../src/{DependencyInjection,Entity,Migrations,Tests,Kernel.php}'
+
+    App\DataSource\LoadCSV:
+        arguments: ['%csv_path%']
